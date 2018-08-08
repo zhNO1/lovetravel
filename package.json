@@ -1,0 +1,24 @@
+{
+  "name": "lovetravel",
+  "version": "1.0.0",
+  "description": "(爱旅行网站)基于node.js 搭建静态服务器",
+  "main": "app.js",
+  "dependencies": {
+    "mime": "^2.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhNO1/lovetravel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhNO1/lovetravel/issues"
+  },
+  "homepage": "https://github.com/zhNO1/lovetravel#readme"
+}

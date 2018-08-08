@@ -71,4 +71,4 @@ let server=http.createServer((request,response)=>{
 //监听
 server.listen(80,'192.168.38.62',()=>{
     console.log("开启成功");
-})
+})      
